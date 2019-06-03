@@ -1,0 +1,4 @@
+COMO EXECUTAR
+
+1-USANDO O CONTROLLER: COMENTAR O @Configuration DAS CLASSES PlaylistRouter E ConfigRabbitMQ
+2-USANDO PlaylistRouter:  COMENTAR O @Configuration DAS CLASSES PlaylistController E ConfigRabbitMQ
