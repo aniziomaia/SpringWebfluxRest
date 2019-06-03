@@ -11,7 +11,7 @@ public class WebfluxApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WebfluxApplication.class, args);
-		System.out.print("Ola mundo com webflux!!! ");
+		System.out.print("::Ola mundo com webflux!!! ");
 	}
 	
 
